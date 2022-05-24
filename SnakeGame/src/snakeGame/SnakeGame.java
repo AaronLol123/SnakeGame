@@ -1,9 +1,21 @@
 package snakeGame;
+import processing.core.PApplet;
+public class SnakeGame extends PApplet{
 
-public class SnakeGame {
+	public void settings() {
+
+	}
+
+	public void setup() {
+
+	}
+
+	public void draw() {
+
+	}
 
 	public static void main(String[] args) {
-		//Cock
+		PApplet.main("SnakeGame");
 	}
 
 }
