@@ -1,5 +1,6 @@
 package snakeGame;
-import processing.core.PApplet;
+import processing.core.*;
+
 public class SnakeGame extends PApplet{
 
 	public void settings() {
